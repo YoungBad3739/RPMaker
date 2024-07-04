@@ -1,3 +1,5 @@
+Tutorial:
+
 1- you need to create an application in discord developer
 
 2- After creating an application for yourself, put some photos in the rich presence section for your RP
